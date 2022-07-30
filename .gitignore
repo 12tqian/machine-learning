@@ -1,4 +1,5 @@
 data
+interviews
 .ipynb_checkpoints
 *.egg-info/
 *.pkl
